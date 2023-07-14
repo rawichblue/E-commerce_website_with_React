@@ -1,2 +1,2 @@
 # E-commerce website with React & MUI
-This is a web development project built using React, with the integration of Mui. The project is a simple E-commerce website that consists of a home page, a product page, and a checkout page.
+This is a web development project built using React, with the integration of Mui. The project is a simple E-commerce website that consists of a home page, a product page, and a checkout page. The website has been designed to be responsive and compatible with various screen sizes. It will adjust its layout and content to fit appropriately on different devices, ensuring a seamless user experience across all screen sizes.
